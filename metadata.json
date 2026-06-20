@@ -1,0 +1,8 @@
+{
+  "name": "Remix: FlowStream",
+  "description": "A premium video and shorts sharing platform with smart AI enhancements, real-time analytics, local persistence, and offline capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
